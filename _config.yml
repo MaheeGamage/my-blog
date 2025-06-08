@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mahee's Blog
-name: mahee
-email: your-email@example.com
+title: Mahee's thoughts
+name: Mahee
+email: mahee.gamage@gmail.com
 description: This is my personal blog and want to share my thoughts, what I know with the world
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://blog.mahee.me" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  MaheeGamage
 
 # Build settings
 theme: minima
@@ -58,5 +58,5 @@ sass:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-author:
-  name: mahee
+# Author settings
+author: Mahee Gamage
